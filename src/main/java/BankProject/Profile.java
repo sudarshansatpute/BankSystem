@@ -52,7 +52,7 @@ public class Profile extends HttpServlet {
 	} catch (SQLException e) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
-		pw.println("Somthing went Wrong.....!");
+		pw.println("Somthing went Wrong.......!");
 	}
 	 
 	}
